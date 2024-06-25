@@ -4,7 +4,7 @@ export default function Home() {
       <section className="flex flex-col mb-16">
         <div className="flex flex-col text-5xl gap-4">
           <h1 className="text-8xl font-bold">Rudy Hartwig</h1>
-          <span>Software Engineering Student</span>
+          <p>Software Engineering Student</p>
         </div>
       </section>
       
